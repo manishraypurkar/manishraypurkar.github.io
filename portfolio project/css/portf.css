@@ -293,6 +293,7 @@ font-family: 'Balsamiq Sans', cursive;
 letter-spacing:2px;
 text-transform:uppercase;
 margin:50px;
+position:relative;
 display:inline-block;
 border:1px solid #fff;
 border-radius:15px;
