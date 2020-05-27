@@ -2,7 +2,8 @@ body{
 margin:0;
 padding:0;
 background:#161616;
-font-family: 'Balsamiq Sans', cursive;	
+font-family: 'Balsamiq Sans', cursive;
+overflow-x:hidden;
 }
 header{
 background:#292929;
