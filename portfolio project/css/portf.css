@@ -3,6 +3,13 @@ margin:0;
 padding:0;
 background:#161616;
 font-family: 'Balsamiq Sans', cursive;
+overflow-x:hidden;
+display:flex;
+min-height:100vh;
+flex-direction:column;
+}
+#forfooter{
+flex:1;
 }
 header{
 background:#292929;
@@ -285,15 +292,12 @@ font-family: 'Balsamiq Sans', cursive;
 
 /* projects html */
 
-.main{
-Position: relative;
-}
 
 .content{
 font-family: 'Balsamiq Sans', cursive;
 letter-spacing:2px;
 text-transform:uppercase;
-margin:50px;
+margin:20px;
 position:relative;
 display:inline-block;
 border:1px solid #fff;
